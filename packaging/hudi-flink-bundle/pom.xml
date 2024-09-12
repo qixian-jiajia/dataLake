@@ -639,7 +639,7 @@
     <profile>
       <id>flink-bundle-shade-hive3</id>
       <properties>
-        <hive.version>3.1.2</hive.version>
+        <hive.version>3.1.3</hive.version>
         <flink.bundle.hive.scope>compile</flink.bundle.hive.scope>
       </properties>
       <dependencies>
